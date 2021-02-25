@@ -125,7 +125,7 @@ The document in the link below outlines the safeguarding policy and procedures f
 
 - As a member you agree to read and implement this policy in full.
 
-[Child Protection and Safeguarding Policy](child_protection)
+[Child Protection and Safeguarding Policy](child_protection.md)
 
 ## Participation & Community
 
