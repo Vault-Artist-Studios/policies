@@ -6,7 +6,7 @@ This Repository is the store for our community policies.
 
 - [ ] Articles of Association
 - [x] Terms of Membership
-- [ ] Terms of Associate Membership
+- [x] Terms of Associate Membership
 - [ ] Room Booking General Conditions
 - [ ] Trustees Roles & Responsibilities
 - [x] Child Protection and Safeguarding
