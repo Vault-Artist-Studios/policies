@@ -13,7 +13,7 @@ This Repository is the store for our community policies.
 - [x] General Data Protection Regulations (GDPR)
 - [ ] Late Night / Lone Worker Policy
 - [ ] Event Risk Management
-- [ ] Financial Management
+- [x] Financial Management
 - [ ] Health & Safety
 - [ ] Equality & Diversity
 - [ ] Risk Management
