@@ -10,7 +10,7 @@ This Repository is the store for our community policies.
 - [ ] Room Booking General Conditions
 - [ ] Trustees Roles & Responsibilities
 - [x] Child Protection and Safeguarding
-- [ ] General Data Protection Regulations (GDPR)
+- [x] General Data Protection Regulations (GDPR)
 - [ ] Late Night / Lone Worker Policy
 - [ ] Event Risk Management
 - [ ] Financial Management
