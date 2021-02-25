@@ -7,7 +7,7 @@ This Repository is the store for our community policies.
 - [ ] Articles of Association
 - [x] Terms of Membership
 - [x] Terms of Associate Membership
-- [ ] Room Booking General Conditions
+- [x] Room Booking General Conditions
 - [ ] Trustees Roles & Responsibilities
 - [x] Child Protection and Safeguarding
 - [x] General Data Protection Regulations (GDPR)
