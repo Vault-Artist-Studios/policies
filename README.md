@@ -5,11 +5,11 @@ This Repository is the store for our community policies.
 ## What Policies?
 
 - [ ] Articles of Association
-- [ ] Terms of Membership
+- [x] Terms of Membership
 - [ ] Terms of Associate Membership
 - [ ] Room Booking General Conditions
 - [ ] Trustees Roles & Responsibilities
-- [ ] Child Protection and Safeguarding
+- [x] Child Protection and Safeguarding
 - [ ] General Data Protection Regulations (GDPR)
 - [ ] Late Night / Lone Worker Policy
 - [ ] Event Risk Management
