@@ -8,7 +8,7 @@ This Repository is the store for our community policies.
 - [x] Terms of Membership
 - [x] Terms of Associate Membership
 - [x] Room Booking General Conditions
-- [ ] Trustees Roles & Responsibilities
+- [x] Trustees Roles & Responsibilities
 - [x] Child Protection and Safeguarding
 - [x] General Data Protection Regulations (GDPR)
 - [ ] Late Night / Lone Worker Policy
