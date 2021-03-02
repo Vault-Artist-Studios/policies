@@ -1,6 +1,6 @@
 # Child protection and Safeguarding at Vault Artist Studios
 
-**Reviewed: August 2018 **
+**Reviewed: August 2018**
 
 Designated Safeguarding Lead: Rob Hilken, Mobile number: 07968 120508
 
