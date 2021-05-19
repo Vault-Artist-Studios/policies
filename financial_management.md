@@ -39,7 +39,7 @@ Inland Revenue deduction cards P11 (if registered for PAYE)
 
 ## Banking
 
-1)The Charity will bank with Santander UK plc at its Business Banking Branch and accounts will be held in the name of the Small Charity. The following accounts will be maintained:
+1) The Charity will bank with Santander UK plc at its Business Banking Branch and accounts will be held in the name of the Small Charity. The following accounts will be maintained:
 
 Business Account
 
