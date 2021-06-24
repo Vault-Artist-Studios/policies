@@ -30,7 +30,7 @@ We also use third party booking systems such as EventBrite for ticketed events. 
 
 ### 2.5 Website Cookies
 
-When people visit our website we use Google Analytics to collect and log standard metadata around visitor behavior patterns. We do this to log the number of visitors to the different parts of our site. This information is anonymised and we do not make, nor allow Google to make, any attempt to find out the identities of people visiting our website.
+When people visit our website we use Google Analytics to collect and log standard metadata around visitor behaviour patterns. We do this to log the number of visitors to the different parts of our site. This information is anonymised and we do not make, nor allow Google to make, any attempt to find out the identities of people visiting our website.
 
 ## 3.  Access to your personal information 
 
